@@ -108,7 +108,7 @@ namespace Cryptography
             //RsaWithRsaParameterKey();
             //RsaWithXml();
             //RsaWithCsp();
-            HybridEncryption();
+            //HybridEncryption();
             //DigitalSignature();
         }
 
